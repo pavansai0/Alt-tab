@@ -1,2 +1,2 @@
 # Alt-tab
-instantly changes to Desktop on motion detection
+instantly changes to Desktop if someone enters the room
